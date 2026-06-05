@@ -1,6 +1,6 @@
 # porsche-web
  
-"A small project to design a fast food website with a fully flexible and fully responsive structure, simple but functional."
+"A scroll-driven mini project built with HTML, CSS, and JavaScript. As the user scrolls, elements move, shift, and transition smoothly, creating a dynamic and interactive experience."
 
 
 ## 🚀      About Me
@@ -10,8 +10,8 @@ I'm Ghazal a fresh Front-end student who is trying to learn and improve in web s
 
 -   🌐[Demo Project](https://ghazalnabaeii-lab.github.io/porsche-web/)
 -  💻Developed by Ghazal Nabaei
- -  🕒Date: 2025/12/20
- -  🔍Technologies Used - HTML , CSS
+ -  🕒Date: 2026/06/06
+ -  🔍Technologies Used - HTML , CSS , JS
 ## 📸Screenshots
  <img width="1885" height="896" alt="Image" src="https://github.com/user-attachments/assets/993ab43f-0a4f-44a1-bd20-3aca3368c435" />
 
